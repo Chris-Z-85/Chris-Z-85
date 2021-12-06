@@ -1,5 +1,7 @@
 ## >_ Hi 👋, my name is Chris Z. 👨‍💻 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%237C3AED&size=30&lines=I+build+websites.)](https://git.io/typing-svg)
+
 I am a passionate Frontend Developer from Poland, currently based in the United Kingdom.
 
 I love bringing ideas to life by creating websites delivering the best user experience. I have a keen eye for design, performance, and well-structured code. I am dedicated to the best practice technologies and I focus on responsiveness and accessibility.

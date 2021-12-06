@@ -1,15 +1,15 @@
-## >_ Hi 👋, my name is Chris Z. 👨‍💻
+## >_ Hi 👋, my name is Chris Z. 👨‍💻 <img align='center' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 
 I am a passionate Frontend Developer from Poland, currently based in the United Kingdom.
 
 I love bringing ideas to life by creating websites delivering the best user experience. I have a keen eye for design, performance, and well-structured code. I am dedicated to the best practice technologies and I focus on responsiveness and accessibility.
-<img align='center' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+
 
 ### >_ Check out my work. 🔥 Get in touch. 😎 Let's work together!  🤝
 
 ## >_ Links
 **Reach me out on [LinkedIn][1] 🔗**
-Visit my portfolio here: [Homepage][2] 🔗
+**Visit my portfolio here: [Homepage][2] 🔗**
 
 [1]: https://www.linkedin.com/in/chrisZ85/
 [2]: hhttps://chris-z.netlify.app/

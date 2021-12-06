@@ -25,6 +25,7 @@ Check out my work. 🔥 Get in touch. 😎 Let's work together!  🤝
  
  ## >_ Contact
  [LinkedIN](https://www.linkedin.com/in/chrisZ85/)
+ 
  [My homepage](https://chris-z.netlify.app/)
 
 

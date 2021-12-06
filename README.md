@@ -4,7 +4,7 @@ I am a passionate Frontend Developer from Poland, currently based in the United 
 
 I love bringing ideas to life by creating websites delivering the best user experience. I have a keen eye for design, performance, and well-structured code. I am dedicated to the best practice technologies and I focus on responsiveness and accessibility.
 
-## >_ Check out my work. 🔥 Get in touch. 😎 Let's work together!  🤝
+### >_ Check out my work. 🔥 Get in touch. 😎 Let's work together!  🤝
 
 ## >_ Links
 **Reach me out on [LinkedIn][1] 🔗**

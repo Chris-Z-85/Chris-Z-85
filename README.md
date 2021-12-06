@@ -1,5 +1,5 @@
 ## >_ Hi, my name is 
-## Chris Z.
+# Chris Z.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%237C3AED&size=30&lines=I+build+websites.)](https://git.io/typing-svg)
 

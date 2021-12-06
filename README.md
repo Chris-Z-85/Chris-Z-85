@@ -22,4 +22,4 @@ I love bringing ideas to life by creating websites delivering the best user expe
 <img align='center' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 
  
- [![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=Chris-Z-85)](https://github.com/anuraghazra/github-readme-stats)
+![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=Chris-Z-85&count_private=true&show_icons=true&theme=dark)

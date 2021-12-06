@@ -6,8 +6,9 @@ I love bringing ideas to life by creating websites delivering the best user expe
 
 ## >_ Check out my work. 🔥 Get in touch. 😎 Let's work together!  🤝
 
-## **Reach me out on [LinkedIn][1] 🔗**
-## **Visit my portfolio here: [Homepage][2] 🔗**
+## >_ Links
+**Reach me out on [LinkedIn][1] 🔗**
+**Visit my portfolio here: [Homepage][2] 🔗**
 
 [1]: https://www.linkedin.com/in/chrisZ85/
 [2]: hhttps://chris-z.netlify.app/

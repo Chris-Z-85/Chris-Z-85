@@ -11,7 +11,7 @@ I love bringing ideas to life by creating websites delivering the best user expe
 
 Check out my work. 🔥 Get in touch. 😎 Let's work together!  🤝
 
-## >_ My weapons of choice 🛠
+## >_ My weapons of choice
 
 <p align="left"> 
 
@@ -24,9 +24,9 @@ Check out my work. 🔥 Get in touch. 😎 Let's work together!  🤝
 <img src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4" height="50"/> 
  
  ## >_ Contact
- [LinkedIN](https://www.linkedin.com/in/chrisZ85/)
+ ↗️ [LinkedIN](https://www.linkedin.com/in/chrisZ85/)
  
- [My homepage](https://chris-z.netlify.app/)
+ ↗️  [My homepage](https://chris-z.netlify.app/)
 
 
  ## >_ Stats for nerds

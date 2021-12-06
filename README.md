@@ -1,5 +1,5 @@
-## >_ Hi, 
-## my name is Chris Z.
+## >_ Hi, my name is 
+## Chris Z.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%237C3AED&size=30&lines=I+build+websites.)](https://git.io/typing-svg)
 
@@ -24,11 +24,10 @@ I love bringing ideas to life by creating websites delivering the best user expe
 <img src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4" height="50"/> 
  
  ## >_ Contact
-**Reach me out on [LinkedIn][1]**
-**Visit my portfolio here: [Homepage][2]**
+<a href="https://www.linkedin.com/in/chrisZ85/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" /></a>
 
 [1]: https://www.linkedin.com/in/chrisZ85/
-[2]: hhttps://chris-z.netlify.app/
+[2]: https://chris-z.netlify.app/
 
  ## >_ Stats for nerds
 

@@ -31,6 +31,6 @@ Check out my work. 🔥 Get in touch. 😎 Let's work together!  🤝
 
  ### >_ Stats for nerds
 
-![Stats](github-readme-stats-chris-z-85.vercel.app/api?username=Chris-Z-85&count_private=true&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats-chris-z-85.vercel.app/api?username=Chris-Z-85&count_private=true&show_icons=true&theme=dark)
  
-![Languages](github-readme-stats-chris-z-85.vercel.app/api/top-langs/?username=Chris-Z-85&theme=dark&layout=compact)
+![Languages](https://github-readme-stats-chris-z-85.vercel.app/api/top-langs/?username=Chris-Z-85&theme=dark&layout=compact)

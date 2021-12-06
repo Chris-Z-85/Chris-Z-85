@@ -1,6 +1,8 @@
-## >_ Hi 👋, my name is Chris Z. 👨‍💻
+## >_ Hi, my name is Chris Z.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%237C3AED&size=30&lines=I+build+websites.)](https://git.io/typing-svg)
+
+## >_ About me
 
 I am a passionate Frontend Developer from Poland, currently based in the United Kingdom.
 
@@ -10,8 +12,8 @@ I love bringing ideas to life by creating websites delivering the best user expe
 ### >_ Check out my work. 🔥 Get in touch. 😎 Let's work together!  🤝
 
 ## >_ Links
-**Reach me out on [LinkedIn][1] 🔗**
-**Visit my portfolio here: [Homepage][2] 🔗**
+**Reach me out on [LinkedIn][1]**
+**Visit my portfolio here: [Homepage][2]**
 
 [1]: https://www.linkedin.com/in/chrisZ85/
 [2]: hhttps://chris-z.netlify.app/

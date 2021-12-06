@@ -1,4 +1,4 @@
-## >_ Hi 👋, my name is Chris Z. 👨‍💻 <img align='center' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+## >_ Hi 👋, my name is Chris Z. 👨‍💻 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 
 I am a passionate Frontend Developer from Poland, currently based in the United Kingdom.
 

@@ -24,8 +24,9 @@ Check out my work. 🔥 Get in touch. 😎 Let's work together!  🤝
 <img src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4" height="50"/> 
  
  ## >_ Contact
-<a href="https://www.linkedin.com/in/chrisZ85/">LinkedIN</a>
-<a href="https://chris-z.netlify.app/">My hompage</a>
+ [LinkedIN](https://www.linkedin.com/in/chrisZ85/)
+ [My homepage](https://chris-z.netlify.app/)
+
 
  ## >_ Stats for nerds
 

@@ -22,6 +22,6 @@ I love bringing ideas to life by creating websites delivering the best user expe
 <img align='center' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 
  
-(https://github-readme-stats.vercel.app/api?username=Chris-Z-85&count_private=true&show_icons=true&theme=dark)
+[Stats](https://github-readme-stats.vercel.app/api?username=Chris-Z-85&count_private=true&show_icons=true&theme=dark)
  
-(https://github-readme-stats.vercel.app/api/top-langs/?username=Chris-Z-85&theme=dark&layout=compact)
+[Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chris-Z-85&theme=dark&layout=compact)

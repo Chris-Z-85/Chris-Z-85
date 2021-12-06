@@ -1,4 +1,4 @@
-## >_ Hi 👋, my name is Chris Z. 👨‍💻 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+## >_ Hi 👋, my name is Chris Z. 👨‍💻 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%237C3AED&size=30&lines=I+build+websites.)](https://git.io/typing-svg)
 

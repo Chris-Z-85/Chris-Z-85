@@ -7,13 +7,6 @@
 * 👨‍💻Frontend Developer
 * ⌨️ Writing Code
 * 🎨 Designing Websites
-* 🇬🇧 UK Based
-
-🐗 Fun Facts :
-* I play electric guitar 🎸🤘
-* I like to fish in a canoe 🛶🎣
-
-Check out my work. 🔥 Get in touch. 😎 Let's work together!  🤝
 
 ### >_ My weapons of choice 🧰
 
@@ -29,12 +22,3 @@ Check out my work. 🔥 Get in touch. 😎 Let's work together!  🤝
  
  ### >_ Contact
  ↗️ [LinkedIN](https://www.linkedin.com/in/chrisZ85/)
- 
- ↗️  [My homepage](https://chris-z.dev/)
-
-
- ### >_ Stats for nerds
-
-![Stats](https://github-readme-stats-chris-z-85.vercel.app/api?username=Chris-Z-85&count_private=true&show_icons=true&theme=midnight-purple)
- 
-![Languages](https://github-readme-stats-chris-z-85.vercel.app/api/top-langs/?username=Chris-Z-85&theme=midnight-purple&layout=compact)

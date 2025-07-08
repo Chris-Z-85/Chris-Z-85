@@ -17,6 +17,7 @@
 [![Website](https://img.shields.io/badge/website-chris--z.dev-blue?style=flat&logo=google-chrome&logoColor=white)](https://chris-z.dev/)
 
 ## 📊 GitHub Stats
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Chris-Z-85&theme=dark)
 ![](https://github-readme-stats.vercel.app/api?username=Chris-Z-85&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Chris-Z-85&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chris-Z-85&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)

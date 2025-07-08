@@ -34,4 +34,5 @@
 ### [metronome_gg](https://github.com/Chris-Z-85/metronome_gg)
 > A sleek, responsive metronome app for musicians built with React, Vite, and Tailwind CSS.
 
+![metronome_gg screenshot](https://raw.githubusercontent.com/Chris-Z-85/metronome_gg/main/screenshots/dark.png)
 ![metronome_gg screenshot](https://raw.githubusercontent.com/Chris-Z-85/metronome_gg/main/screenshots/light.png)

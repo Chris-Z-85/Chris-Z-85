@@ -10,11 +10,11 @@
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrisZ85/) 
-!↗️ [Website](https://chris-z.dev/)
+[![Website](https://img.shields.io/badge/website-chris--z.dev-blue?style=flat&logo=google-chrome&logoColor=white)](https://chris-z.dev/)
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Chris-Z-85&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

@@ -1,3 +1,4 @@
+```
 $ npx @chris.z/cli
 ⸨░░░░░░░░⠂⠂⠂⠂⠂⠂⸩ ⠴ fetchMetadata: resolveWithNewModule @chris.z/cli@1.4.457
 
@@ -14,6 +15,7 @@ $ npx @chris.z/cli
 ❯ 📬 Email             chris.z@aol.com
 ❯ 💾 GitHub            github.com/Chris-Z-85
 ❯ 👔 LinkedIn          linkedin.com/in/chrisz85
+```
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%237C3AED&size=30&lines=I+build+websites.)](https://git.io/typing-svg)
 

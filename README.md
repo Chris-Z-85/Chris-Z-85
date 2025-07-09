@@ -11,13 +11,11 @@ $ npx @chris.z/cli
  
            Full Stack Developer
 
-❯ 🏡 Website           [chris-z.dev](https://chris-z.dev/)
+❯ 🏡 Website           chris-z.dev
 ❯ 📬 Email             chris.z@aol.com
 ❯ 💾 GitHub            github.com/Chris-Z-85
 ❯ 👔 LinkedIn          linkedin.com/in/chrisz85
 ```
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%237C3AED&size=30&lines=I+build+websites.)](https://git.io/typing-svg)
 
 ## 💻 Tech Stack
 

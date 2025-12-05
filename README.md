@@ -28,24 +28,3 @@ $ npx @chris.z/cli
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrisZ85/) 
 [![Website](https://img.shields.io/badge/website-chris--z.dev-blue?style=flat&logo=google-chrome&logoColor=white)](https://chris-z.dev/)
-
-## 📈 GitHub Stats & Highlights
-
-<!-- GitHub Stats -->
-![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chris-Z-85&show_icons=true&theme=tokyonight)
-
-<!-- Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chris-Z-85&theme=tokyonight)
-
-<!-- GitHub Trophies -->
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Chris-Z-85&theme=dark)
-
----
-
-## 🚀 Featured Projects
-
-### [metronome_gg](https://github.com/Chris-Z-85/metronome_gg)
-> A sleek, responsive metronome app for musicians built with React, Vite, and Tailwind CSS.
-
-![metronome_gg screenshot](https://raw.githubusercontent.com/Chris-Z-85/metronome_gg/main/screenshots/dark.png)
-![metronome_gg screenshot](https://raw.githubusercontent.com/Chris-Z-85/metronome_gg/main/screenshots/light.png)

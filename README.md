@@ -13,8 +13,8 @@ $ npx @chris.z/cli
 
 ❯ 🏡 Website           chris-z.dev
 ❯ 📬 Email             chris.z@aol.com
-❯ 💾 GitHub            github.com/Chris-Z-85
-❯ 👔 LinkedIn          linkedin.com/in/chrisz85
+❯ 💾 GitHub            github.com/Chris-Zbrojkiewicz
+❯ 👔 LinkedIn          linkedin.com/in/Chris-Zbrojkiewicz
 ```
 
 ## 💻 Tech Stack

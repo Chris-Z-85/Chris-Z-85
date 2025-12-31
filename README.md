@@ -42,4 +42,4 @@ $ npx @chris.z/cli
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1F2937?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/chris-zbrojkiewicz/)
-![Website](https://img.shields.io/badge/chris--z.dev-1F2937?style=flat&logo=google-earth&logoColor=white)](https://chris-z.dev/)
+![Website](https://img.shields.io/badge/chris--z.dev-1F2937?style=flat&logo=google-earth&logoColor=white)

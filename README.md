@@ -16,6 +16,10 @@ $ npx @chris.z/cli
 ❯ 💾 GitHub            github.com/Chris-Zbrojkiewicz
 ❯ 👔 LinkedIn          linkedin.com/in/Chris-Zbrojkiewicz
 ```
+¡Hola! 👋
+
+I’m Chris. I build things for the web and enjoy the process almost as much as the result. I like clean code, simple solutions, and projects where I can experiment, refactor, and slowly make things better. Programming for me is part problem-solving, part craft, and part curiosity.
+
 
 ### 💻 Tech Stack
 
@@ -40,6 +44,6 @@ $ npx @chris.z/cli
 ![Docker](https://img.shields.io/badge/Docker-1F2937?style=flat&logo=docker&logoColor=2496ED)
 
 
-### 📫 Connect
+### 🤝 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1F2937?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/chris-zbrojkiewicz/)
 ![Website](https://img.shields.io/badge/chris--z.dev-1F2937?style=flat&logo=google-earth&logoColor=white)

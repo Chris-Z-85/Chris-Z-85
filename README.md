@@ -17,7 +17,7 @@ $ npx @chris.z/cli
 ❯ 👔 LinkedIn          linkedin.com/in/Chris-Zbrojkiewicz
 ```
 
-## 💻 Tech Stack
+### 💻 Tech Stack
 
 <!-- Frontend -->
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -40,6 +40,6 @@ $ npx @chris.z/cli
 ![Docker](https://img.shields.io/badge/Docker-1F2937?style=flat&logo=docker&logoColor=2496ED)
 
 
-## 📫 Connect
+### 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1F2937?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/chris-zbrojkiewicz/)
 ![Website](https://img.shields.io/badge/chris--z.dev-1F2937?style=flat&logo=google-earth&logoColor=white)

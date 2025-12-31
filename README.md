@@ -41,5 +41,5 @@ $ npx @chris.z/cli
 
 
 ## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-zbrojkiewicz/) 
-[![Website](https://img.shields.io/badge/website-chris--z.dev-blue?style=flat&logo=google-chrome&logoColor=white)](https://chris-z.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F2937?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/chris-zbrojkiewicz/)
+![Website](https://img.shields.io/badge/chris--z.dev-1F2937?style=flat&logo=google-earth&logoColor=white)](https://chris-z.dev/)

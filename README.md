@@ -19,11 +19,26 @@ $ npx @chris.z/cli
 
 ## 💻 Tech Stack
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+<!-- Frontend -->
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat&logo=tailwindcss&logoColor=38B2AC)
+
+<!-- Language -->
+![JavaScript](https://img.shields.io/badge/JavaScript-1F2937?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-1F2937?style=flat&logo=typescript&logoColor=3178C6)
+
+<!-- Backend -->
+![Node.js](https://img.shields.io/badge/Node.js-1F2937?style=flat&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-1F2937?style=flat&logo=express&logoColor=white)
+
+<!-- Database -->
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F2937?style=flat&logo=postgresql&logoColor=4169E1)
+
+<!-- Tooling -->
+![Git](https://img.shields.io/badge/Git-1F2937?style=flat&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-1F2937?style=flat&logo=docker&logoColor=2496ED)
+
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-zbrojkiewicz/) 
